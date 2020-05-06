@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45CA8102-1F7D-4F55-8F44-01542DF09783"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5740FA1-8547-4F1D-9C0A-B8673D72369C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/ViewController.swift"
+            timestampString = "610490371.7530791"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "FirstUrlDataDownLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3A9F0A2-47E7-4B86-887D-AE070F394B2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/ViewController.swift"
+            timestampString = "610490371.753742"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "SecondUrlDataDownLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FD3BD24-1BF5-4CDC-9F8B-72E97DCCA436"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/ViewController.swift"
+            timestampString = "610490371.754101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "SecondUrlDataDownLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD1B0F29-E1EB-4B1C-A08A-6028C3EAA3E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/ViewController.swift"
+            timestampString = "610490371.7544349"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "SecondUrlDataDownLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6EC79D6D-16AD-4213-A293-BB84649996A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/CompanyInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(catchPhrase:dailyRevene:description:color:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6EC79D6D-16AD-4213-A293-BB84649996A7 - 50f4972fc122701d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HamtionTevin_CE03.CompanyInfo.__allocating_init(catchPhrase: Swift.String, dailyRevene: Swift.Optional&lt;Swift.String&gt;, description: Swift.Array&lt;Swift.String&gt;, color: Swift.Array&lt;Swift.String&gt;) -&gt; HamtionTevin_CE03.CompanyInfo"
+                  moduleName = "HamtionTevin_CE03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tevinhamilton/Desktop/MDV1_CE03/HamtionTevin_CE03/HamtionTevin_CE03/CompanyInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "6EC79D6D-16AD-4213-A293-BB84649996A7 - b2b15285e4e9c7af"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HamtionTevin_CE03.CompanyInfo.init(catchPhrase: Swift.String, dailyRevene: Swift.Optional&lt;Swift.String&gt;, description: Swift.Array&lt;Swift.String&gt;, color: Swift.Array&lt;Swift.String&gt;) -&gt; HamtionTevin_CE03.CompanyInfo"
+                  moduleName = "HamtionTevin_CE03"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tevinhamilton/Desktop/MDV1_CE03/HamtionTevin_CE03/HamtionTevin_CE03/CompanyInfo.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "67">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B68D08F-3C5B-4D3D-A010-C8B4EFEFBDB2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/CompanyInfo.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(catchPhrase:dailyRevene:description:color:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1954CB4D-6753-4042-ADF9-1F9910F813E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HamtionTevin_CE03/company.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(name:version:company:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
